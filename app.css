@@ -69,6 +69,16 @@ body {
   justify-content: center;
 }
 
+button#themeButton svg#themeButton__icon {
+height: 16px;
+
+}
+
+
+
+
+
+
 .notransition {
   -webkit-transition: none;
   -moz-transition: none;
