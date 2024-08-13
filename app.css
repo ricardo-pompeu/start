@@ -70,8 +70,7 @@ body {
 }
 
 button#themeButton svg#themeButton__icon {
-height: 3vh;
-width: 3vh;
+display: none;
 
 }
 
